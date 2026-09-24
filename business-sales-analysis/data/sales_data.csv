@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Category,Product,Quantity,Unit_Price,Sales,Cost,Profit,Region,Payment_Method
+1001,2026-01-05,C001,Rahim,Electronics,Laptop,1,800.00,800.00,650.00,150.00,Dhaka,Card
+1002,2026-01-07,C002,Karim,Electronics,Mouse,3,20.00,60.00,30.00,30.00,Chattogram,Cash
+1003,2026-01-10,C003,Hasan,Furniture,Chair,4,50.00,200.00,120.00,80.00,Dhaka,Card
+1004,2026-01-12,C004,Nabila,Clothing,Shirt,5,25.00,125.00,60.00,65.00,Sylhet,"Mobile Banking"
+1005,2026-01-15,C005,Fahim,Electronics,Keyboard,2,40.00,80.00,45.00,35.00,Rajshahi,Card
+1006,2026-01-18,C006,Sadia,Clothing,Jeans,2,45.00,90.00,55.00,35.00,Dhaka,"Mobile Banking"
+1007,2026-01-20,C007,Tanvir,Furniture,Table,1,180.00,180.00,120.00,60.00,Khulna,Cash
+1008,2026-01-23,C008,Ayesha,Grocery,Rice,5,35.00,175.00,140.00,35.00,Chattogram,"Mobile Banking"
+1009,2026-01-25,C009,Imran,Stationery,Notebook,10,5.00,50.00,30.00,20.00,Sylhet,Cash
+1010,2026-01-28,C010,Jannat,Electronics,Monitor,2,220.00,440.00,330.00,110.00,Dhaka,Card
+1011,2026-02-02,C011,Rafi,Clothing,T-Shirt,4,18.00,72.00,40.00,32.00,Rajshahi,Cash
+1012,2026-02-04,C012,Mim,Grocery,Oil,3,12.00,36.00,27.00,9.00,Dhaka,"Mobile Banking"
+1013,2026-02-06,C013,Sakib,Electronics,Laptop,1,850.00,850.00,690.00,160.00,Chattogram,Card
+1014,2026-02-09,C014,Nusrat,Furniture,Sofa,1,450.00,450.00,330.00,120.00,Sylhet,"Bank Transfer"
+1015,2026-02-11,C015,Arif,Stationery,Pen,20,2.00,40.00,20.00,20.00,Dhaka,Cash
+1016,2026-02-14,C016,Tania,Clothing,Shirt,3,28.00,84.00,45.00,39.00,Khulna,Card
+1017,2026-02-17,C017,Shuvo,Grocery,Rice,8,32.00,256.00,205.00,51.00,Rajshahi,"Mobile Banking"
+1018,2026-02-20,C018,Sumaiya,Electronics,Keyboard,3,45.00,135.00,78.00,57.00,Dhaka,Card
+1019,2026-02-22,C019,Rakib,Furniture,Chair,6,55.00,330.00,200.00,130.00,Chattogram,Cash
+1020,2026-02-25,C020,Puja,Stationery,Backpack,2,35.00,70.00,42.00,28.00,Sylhet,"Mobile Banking"
+1021,2026-03-01,C001,Rahim,Electronics,Mouse,5,22.00,110.00,55.00,55.00,Dhaka,Card
+1022,2026-03-03,C002,Karim,Clothing,Jeans,3,48.00,144.00,87.00,57.00,Chattogram,Cash
+1023,2026-03-05,C003,Hasan,Furniture,Table,2,190.00,380.00,250.00,130.00,Dhaka,Card
+1024,2026-03-08,C004,Nabila,Grocery,Oil,6,13.00,78.00,55.00,23.00,Sylhet,"Mobile Banking"
+1025,2026-03-10,C005,Fahim,Electronics,Monitor,1,240.00,240.00,175.00,65.00,Rajshahi,Card
+1026,2026-03-12,C006,Sadia,Stationery,Notebook,15,6.00,90.00,48.00,42.00,Dhaka,Cash
+1027,2026-03-15,C007,Tanvir,Clothing,T-Shirt,5,20.00,100.00,55.00,45.00,Khulna,"Mobile Banking"
+1028,2026-03-18,C008,Ayesha,Grocery,Rice,10,34.00,340.00,270.00,70.00,Chattogram,Card
+1029,2026-03-20,C009,Imran,Electronics,Keyboard,4,42.00,168.00,95.00,73.00,Sylhet,Cash
+1030,2026-03-23,C010,Jannat,Furniture,Chair,3,52.00,156.00,90.00,66.00,Dhaka,Card
+1031,2026-03-25,C011,Rafi,Clothing,Shirt,4,27.00,108.00,58.00,50.00,Rajshahi,"Mobile Banking"
+1032,2026-03-27,C012,Mim,Electronics,Laptop,1,820.00,820.00,670.00,150.00,Dhaka,Card
+1033,2026-04-01,C013,Sakib,Grocery,Oil,4,14.00,56.00,40.00,16.00,Chattogram,Cash
+1034,2026-04-03,C014,Nusrat,Furniture,Sofa,1,470.00,470.00,350.00,120.00,Sylhet,"Bank Transfer"
+1035,2026-04-05,C015,Arif,Stationery,Pen,30,2.00,60.00,30.00,30.00,Dhaka,Cash
+1036,2026-04-08,C016,Tania,Clothing,Jeans,2,50.00,100.00,60.00,40.00,Khulna,Card
+1037,2026-04-10,C017,Shuvo,Grocery,Rice,7,36.00,252.00,196.00,56.00,Rajshahi,"Mobile Banking"
+1038,2026-04-12,C018,Sumaiya,Electronics,Mouse,6,21.00,126.00,63.00,63.00,Dhaka,Card
+1039,2026-04-15,C019,Rakib,Furniture,Table,1,200.00,200.00,135.00,65.00,Chattogram,Cash
+1040,2026-04-18,C020,Puja,Stationery,Backpack,3,38.00,114.00,68.00,46.00,Sylhet,"Mobile Banking"
+1041,2026-04-20,C001,Rahim,Electronics,Laptop,2,780.00,1560.00,1250.00,310.00,Dhaka,Card
+1042,2026-04-22,C002,Karim,Clothing,Shirt,6,26.00,156.00,84.00,72.00,Chattogram,Cash
+1043,2026-04-25,C003,Hasan,Furniture,Chair,5,58.00,290.00,175.00,115.00,Dhaka,Card
+1044,2026-04-27,C004,Nabila,Grocery,Rice,9,33.00,297.00,235.00,62.00,Sylhet,"Mobile Banking"
+1045,2026-04-29,C005,Fahim,Electronics,Monitor,2,230.00,460.00,340.00,120.00,Rajshahi,Card
+1046,2026-05-02,C006,Sadia,Stationery,Notebook,12,6.00,72.00,40.00,32.00,Dhaka,Cash
+1047,2026-05-04,C007,Tanvir,Clothing,T-Shirt,8,19.00,152.00,80.00,72.00,Khulna,"Mobile Banking"
+1048,2026-05-07,C008,Ayesha,Grocery,Oil,5,13.00,65.00,45.00,20.00,Chattogram,Card
+1049,2026-05-09,C009,Imran,Electronics,Keyboard,3,44.00,132.00,75.00,57.00,Sylhet,Cash
+1050,2026-05-12,C010,Jannat,Furniture,Sofa,1,480.00,480.00,355.00,125.00,Dhaka,Card
+1051,2026-05-15,C011,Rafi,Clothing,Jeans,4,47.00,188.00,110.00,78.00,Rajshahi,"Mobile Banking"
+1052,2026-05-18,C012,Mim,Electronics,Mouse,7,20.00,140.00,70.00,70.00,Dhaka,Card
+1053,2026-05-20,C013,Sakib,Grocery,Rice,6,35.00,210.00,165.00,45.00,Chattogram,Cash
+1054,2026-05-23,C014,Nusrat,Furniture,Table,2,185.00,370.00,245.00,125.00,Sylhet,"Bank Transfer"
+1055,2026-05-25,C015,Arif,Stationery,Pen,25,2.00,50.00,25.00,25.00,Dhaka,Cash
+1056,2026-05-28,C016,Tania,Clothing,Shirt,5,29.00,145.00,78.00,67.00,Khulna,Card
+1057,2026-06-01,C017,Shuvo,Grocery,Oil,7,14.00,98.00,70.00,28.00,Rajshahi,"Mobile Banking"
+1058,2026-06-04,C018,Sumaiya,Electronics,Laptop,1,790.00,790.00,640.00,150.00,Dhaka,Card
+1059,2026-06-06,C019,Rakib,Furniture,Chair,4,54.00,216.00,125.00,91.00,Chattogram,Cash
+1060,2026-06-09,C020,Puja,Stationery,Backpack,2,40.00,80.00,48.00,32.00,Sylhet,"Mobile Banking"
+1061,2026-06-12,C001,Rahim,Electronics,Monitor,2,225.00,450.00,335.00,115.00,Dhaka,Card
+1062,2026-06-15,C002,Karim,Clothing,T-Shirt,6,21.00,126.00,66.00,60.00,Chattogram,Cash
+1063,2026-06-18,C003,Hasan,Furniture,Table,1,195.00,195.00,130.00,65.00,Dhaka,Card
+1064,2026-06-21,C004,Nabila,Grocery,Rice,11,34.00,374.00,300.00,74.00,Sylhet,"Mobile Banking"
+1065,2026-06-24,C005,Fahim,Electronics,Keyboard,5,43.00,215.00,120.00,95.00,Rajshahi,Card
+1066,2026-06-27,C006,Sadia,Stationery,Notebook,20,5.00,100.00,55.00,45.00,Dhaka,Cash
+1067,2026-07-01,C007,Tanvir,Clothing,Jeans,3,49.00,147.00,85.00,62.00,Khulna,"Mobile Banking"
+1068,2026-07-04,C008,Ayesha,Grocery,Oil,8,13.00,104.00,72.00,32.00,Chattogram,Card
+1069,2026-07-07,C009,Imran,Electronics,Mouse,10,19.00,190.00,95.00,95.00,Sylhet,Cash
+1070,2026-07-10,C010,Jannat,Furniture,Sofa,1,460.00,460.00,340.00,120.00,Dhaka,Card
+1071,2026-07-13,C011,Rafi,Clothing,Shirt,7,28.00,196.00,105.00,91.00,Rajshahi,"Mobile Banking"
+1072,2026-07-16,C012,Mim,Electronics,Laptop,1,810.00,810.00,660.00,150.00,Dhaka,Card
+1073,2026-07-19,C013,Sakib,Grocery,Rice,5,37.00,185.00,145.00,40.00,Chattogram,Cash
+1074,2026-07-22,C014,Nusrat,Furniture,Chair,6,53.00,318.00,190.00,128.00,Sylhet,"Bank Transfer"
+1075,2026-07-25,C015,Arif,Stationery,Pen,40,2.00,80.00,40.00,40.00,Dhaka,Cash
+1076,2026-07-28,C016,Tania,Clothing,T-Shirt,5,20.00,100.00,55.00,45.00,Khulna,Card
+1077,2026-08-01,C017,Shuvo,Grocery,Oil,9,14.00,126.00,90.00,36.00,Rajshahi,"Mobile Banking"
+1078,2026-08-04,C018,Sumaiya,Electronics,Monitor,1,235.00,235.00,175.00,60.00,Dhaka,Card
+1079,2026-08-07,C019,Rakib,Furniture,Table,2,205.00,410.00,275.00,135.00,Chattogram,Cash
+1080,2026-08-10,C020,Puja,Stationery,Backpack,4,36.00,144.00,84.00,60.00,Sylhet,"Mobile Banking"
+1081,2026-08-13,C001,Rahim,Electronics,Laptop,1,830.00,830.00,675.00,155.00,Dhaka,Card
+1082,2026-08-16,C002,Karim,Clothing,Jeans,2,46.00,92.00,55.00,37.00,Chattogram,Cash
+1083,2026-08-19,C003,Hasan,Furniture,Chair,7,56.00,392.00,235.00,157.00,Dhaka,Card
+1084,2026-08-22,C004,Nabila,Grocery,Rice,8,35.00,280.00,225.00,55.00,Sylhet,"Mobile Banking"
+1085,2026-08-25,C005,Fahim,Electronics,Keyboard,6,41.00,246.00,135.00,111.00,Rajshahi,Card
+1086,2026-08-28,C006,Sadia,Stationery,Notebook,18,5.00,90.00,50.00,40.00,Dhaka,Cash
+1087,2026-09-01,C007,Tanvir,Clothing,Shirt,4,30.00,120.00,65.00,55.00,Khulna,"Mobile Banking"
+1088,2026-09-04,C008,Ayesha,Grocery,Oil,6,15.00,90.00,63.00,27.00,Chattogram,Card
+1089,2026-09-07,C009,Imran,Electronics,Mouse,8,21.00,168.00,84.00,84.00,Sylhet,Cash
+1090,2026-09-10,C010,Jannat,Furniture,Sofa,1,490.00,490.00,365.00,125.00,Dhaka,Card
+1091,2026-09-13,C011,Rafi,Clothing,T-Shirt,9,19.00,171.00,90.00,81.00,Rajshahi,"Mobile Banking"
+1092,2026-09-16,C012,Mim,Electronics,Laptop,1,795.00,795.00,645.00,150.00,Dhaka,Card
+1093,2026-09-19,C013,Sakib,Grocery,Rice,12,32.00,384.00,305.00,79.00,Chattogram,Cash
+1094,2026-09-22,C014,Nusrat,Furniture,Table,1,210.00,210.00,140.00,70.00,Sylhet,"Bank Transfer"
+1095,2026-09-25,C015,Arif,Stationery,Pen,35,2.00,70.00,35.00,35.00,Dhaka,Cash
+1096,2026-09-28,C016,Tania,Clothing,Jeans,5,51.00,255.00,150.00,105.00,Khulna,Card
+1097,2026-10-01,C017,Shuvo,Grocery,Oil,10,14.00,140.00,100.00,40.00,Rajshahi,"Mobile Banking"
+1098,2026-10-04,C018,Sumaiya,Electronics,Monitor,2,220.00,440.00,325.00,115.00,Dhaka,Card
+1099,2026-10-07,C019,Rakib,Furniture,Chair,3,57.00,171.00,100.00,71.00,Chattogram,Cash
+1100,2026-10-10,C020,Puja,Stationery,Backpack,3,39.00,117.00,70.00,47.00,Sylhet,"Mobile Banking"
+1101,2026-10-13,C001,Rahim,Electronics,Laptop,2,805.00,1610.00,1288.00,322.00,Dhaka,Card
+1102,2026-10-16,C002,Karim,Electronics,Mouse,5,21.00,105.00,52.00,53.00,Chattogram,Cash
+1103,2026-10-19,C003,Hasan,Furniture,Chair,3,59.00,177.00,106.00,71.00,Dhaka,Card
+1104,2026-10-22,C004,Nabila,Clothing,Shirt,4,31.00,124.00,68.00,56.00,Sylhet,"Mobile Banking"
+1105,2026-10-25,C005,Fahim,Electronics,Keyboard,7,42.00,294.00,162.00,132.00,Rajshahi,Card
+1106,2026-10-28,C006,Sadia,Clothing,Jeans,3,52.00,156.00,91.00,65.00,Dhaka,"Mobile Banking"
+1107,2026-11-01,C007,Tanvir,Furniture,Table,2,195.00,390.00,260.00,130.00,Khulna,Cash
+1108,2026-11-04,C008,Ayesha,Grocery,Rice,7,36.00,252.00,202.00,50.00,Chattogram,"Mobile Banking"
+1109,2026-11-07,C009,Imran,Stationery,Notebook,15,6.00,90.00,48.00,42.00,Sylhet,Cash
+1110,2026-11-10,C010,Jannat,Electronics,Monitor,2,225.00,450.00,330.00,120.00,Dhaka,Card
+1111,2026-11-13,C011,Rafi,Clothing,T-Shirt,6,21.00,126.00,69.00,57.00,Rajshahi,Cash
+1112,2026-11-16,C012,Mim,Grocery,Oil,5,14.00,70.00,50.00,20.00,Dhaka,"Mobile Banking"
+1113,2026-11-19,C013,Sakib,Electronics,Laptop,1,840.00,840.00,680.00,160.00,Chattogram,Card
+1114,2026-11-22,C014,Nusrat,Furniture,Sofa,2,455.00,910.00,675.00,235.00,Sylhet,"Bank Transfer"
+1115,2026-11-25,C015,Arif,Stationery,Pen,25,2.00,50.00,25.00,25.00,Dhaka,Cash
+1116,2026-11-28,C016,Tania,Clothing,Shirt,5,29.00,145.00,78.00,67.00,Khulna,Card
+1117,2026-12-01,C017,Shuvo,Grocery,Rice,6,35.00,210.00,168.00,42.00,Rajshahi,"Mobile Banking"
+1118,2026-12-04,C018,Sumaiya,Electronics,Keyboard,4,44.00,176.00,97.00,79.00,Dhaka,Card
+1119,2026-12-07,C019,Rakib,Furniture,Chair,5,56.00,280.00,168.00,112.00,Chattogram,Cash
+1120,2026-12-10,C020,Puja,Stationery,Backpack,3,37.00,111.00,66.00,45.00,Sylhet,"Mobile Banking"
+1121,2026-12-13,C001,Rahim,Electronics,Mouse,8,20.00,160.00,80.00,80.00,Dhaka,Card
+1122,2026-12-16,C002,Karim,Clothing,Jeans,4,49.00,196.00,118.00,78.00,Chattogram,Cash
+1123,2026-12-19,C003,Hasan,Furniture,Table,2,205.00,410.00,270.00,140.00,Dhaka,Card
+1124,2026-12-22,C004,Nabila,Grocery,Oil,8,14.00,112.00,80.00,32.00,Sylhet,"Mobile Banking"
+1125,2026-12-25,C005,Fahim,Electronics,Monitor,1,245.00,245.00,180.00,65.00,Rajshahi,Card
+1126,2026-12-28,C006,Sadia,Stationery,Notebook,20,6.00,120.00,66.00,54.00,Dhaka,Cash
+1127,2026-12-30,C007,Tanvir,Clothing,T-Shirt,7,20.00,140.00,77.00,63.00,Khulna,"Mobile Banking"
+1128,2027-01-02,C008,Ayesha,Grocery,Rice,9,35.00,315.00,252.00,63.00,Chattogram,Card
+1129,2027-01-05,C009,Imran,Electronics,Keyboard,5,43.00,215.00,118.00,97.00,Sylhet,Cash
+1130,2027-01-08,C010,Jannat,Furniture,Chair,4,55.00,220.00,132.00,88.00,Dhaka,Card
+1131,2027-01-11,C011,Rafi,Clothing,Shirt,6,28.00,168.00,92.00,76.00,Rajshahi,"Mobile Banking"
+1132,2027-01-14,C012,Mim,Electronics,Laptop,1,825.00,825.00,668.00,157.00,Dhaka,Card
+1133,2027-01-17,C013,Sakib,Grocery,Oil,6,15.00,90.00,63.00,27.00,Chattogram,Cash
+1134,2027-01-20,C014,Nusrat,Furniture,Sofa,1,485.00,485.00,360.00,125.00,Sylhet,"Bank Transfer"
+1135,2027-01-23,C015,Arif,Stationery,Pen,30,2.00,60.00,30.00,30.00,Dhaka,Cash
+1136,2027-01-26,C016,Tania,Clothing,Jeans,3,53.00,159.00,93.00,66.00,Khulna,Card
+1137,2027-01-29,C017,Shuvo,Grocery,Rice,8,36.00,288.00,230.00,58.00,Rajshahi,"Mobile Banking"
+1138,2027-02-01,C018,Sumaiya,Electronics,Mouse,7,22.00,154.00,77.00,77.00,Dhaka,Card
+1139,2027-02-04,C019,Rakib,Furniture,Table,2,198.00,396.00,266.00,130.00,Chattogram,Cash
+1140,2027-02-07,C020,Puja,Stationery,Backpack,4,38.00,152.00,91.00,61.00,Sylhet,"Mobile Banking"
+1141,2027-02-10,C001,Rahim,Electronics,Laptop,1,815.00,815.00,652.00,163.00,Dhaka,Card
+1142,2027-02-13,C002,Karim,Clothing,Shirt,8,27.00,216.00,119.00,97.00,Chattogram,Cash
+1143,2027-02-16,C003,Hasan,Furniture,Chair,4,58.00,232.00,139.00,93.00,Dhaka,Card
+1144,2027-02-19,C004,Nabila,Grocery,Rice,10,34.00,340.00,272.00,68.00,Sylhet,"Mobile Banking"
+1145,2027-02-22,C005,Fahim,Electronics,Monitor,2,235.00,470.00,345.00,125.00,Rajshahi,Card
+1146,2027-02-25,C006,Sadia,Stationery,Notebook,16,5.00,80.00,44.00,36.00,Dhaka,Cash
+1147,2027-02-28,C007,Tanvir,Clothing,T-Shirt,9,21.00,189.00,104.00,85.00,Khulna,"Mobile Banking"
+1148,2027-03-03,C008,Ayesha,Grocery,Oil,5,15.00,75.00,52.00,23.00,Chattogram,Card
+1149,2027-03-06,C009,Imran,Electronics,Keyboard,4,45.00,180.00,99.00,81.00,Sylhet,Cash
+1150,2027-03-09,C010,Jannat,Furniture,Sofa,1,475.00,475.00,350.00,125.00,Dhaka,Card
+1151,2027-03-12,C011,Rafi,Clothing,Jeans,5,50.00,250.00,150.00,100.00,Rajshahi,"Mobile Banking"
+1152,2027-03-15,C012,Mim,Electronics,Mouse,9,21.00,189.00,95.00,94.00,Dhaka,Card
+1153,2027-03-18,C013,Sakib,Grocery,Rice,7,37.00,259.00,207.00,52.00,Chattogram,Cash
+1154,2027-03-21,C014,Nusrat,Furniture,Table,2,215.00,430.00,290.00,140.00,Sylhet,"Bank Transfer"
+1155,2027-03-24,C015,Arif,Stationery,Pen,35,2.00,70.00,35.00,35.00,Dhaka,Cash
+1156,2027-03-27,C016,Tania,Clothing,Shirt,4,30.00,120.00,66.00,54.00,Khulna,Card
+1157,2027-03-30,C017,Shuvo,Grocery,Oil,8,14.00,112.00,80.00,32.00,Rajshahi,"Mobile Banking"
+1158,2027-04-02,C018,Sumaiya,Electronics,Laptop,2,805.00,1610.00,1300.00,310.00,Dhaka,Card
+1159,2027-04-05,C019,Rakib,Furniture,Chair,6,55.00,330.00,198.00,132.00,Chattogram,Cash
+1160,2027-04-08,C020,Puja,Stationery,Backpack,3,40.00,120.00,72.00,48.00,Sylhet,"Mobile Banking"
+1161,2027-04-11,C001,Rahim,Electronics,Monitor,1,230.00,230.00,170.00,60.00,Dhaka,Card
+1162,2027-04-14,C002,Karim,Clothing,T-Shirt,7,20.00,140.00,77.00,63.00,Chattogram,Cash
+1163,2027-04-17,C003,Hasan,Furniture,Table,3,190.00,570.00,380.00,190.00,Dhaka,Card
+1164,2027-04-20,C004,Nabila,Grocery,Rice,12,35.00,420.00,336.00,84.00,Sylhet,"Mobile Banking"
+1165,2027-04-23,C005,Fahim,Electronics,Keyboard,6,42.00,252.00,139.00,113.00,Rajshahi,Card
+1166,2027-04-26,C006,Sadia,Stationery,Notebook,18,6.00,108.00,59.00,49.00,Dhaka,Cash
+1167,2027-04-29,C007,Tanvir,Clothing,Jeans,4,52.00,208.00,125.00,83.00,Khulna,"Mobile Banking"
+1168,2027-05-02,C008,Ayesha,Grocery,Oil,9,13.00,117.00,82.00,35.00,Chattogram,Card
+1169,2027-05-05,C009,Imran,Electronics,Mouse,10,20.00,200.00,100.00,100.00,Sylhet,Cash
+1170,2027-05-08,C010,Jannat,Furniture,Sofa,1,495.00,495.00,370.00,125.00,Dhaka,Card
+1171,2027-05-11,C011,Rafi,Clothing,Shirt,5,29.00,145.00,80.00,65.00,Rajshahi,"Mobile Banking"
+1172,2027-05-14,C012,Mim,Electronics,Laptop,1,835.00,835.00,675.00,160.00,Dhaka,Card
+1173,2027-05-17,C013,Sakib,Grocery,Rice,10,33.00,330.00,264.00,66.00,Chattogram,Cash
+1174,2027-05-20,C014,Nusrat,Furniture,Chair,5,57.00,285.00,171.00,114.00,Sylhet,"Bank Transfer"
+1175,2027-05-23,C015,Arif,Stationery,Pen,45,2.00,90.00,45.00,45.00,Dhaka,Cash
+1176,2027-05-26,C016,Tania,Clothing,T-Shirt,6,21.00,126.00,69.00,57.00,Khulna,Card
+1177,2027-05-29,C017,Shuvo,Grocery,Oil,11,14.00,154.00,110.00,44.00,Rajshahi,"Mobile Banking"
+1178,2027-06-01,C018,Sumaiya,Electronics,Monitor,2,240.00,480.00,350.00,130.00,Dhaka,Card
+1179,2027-06-04,C019,Rakib,Furniture,Table,1,220.00,220.00,150.00,70.00,Chattogram,Cash
+1180,2027-06-07,C020,Puja,Stationery,Backpack,5,37.00,185.00,111.00,74.00,Sylhet,"Mobile Banking"
+1181,2027-06-10,C001,Rahim,Electronics,Laptop,1,820.00,820.00,660.00,160.00,Dhaka,Card
+1182,2027-06-13,C002,Karim,Clothing,Jeans,3,48.00,144.00,86.00,58.00,Chattogram,Cash
+1183,2027-06-16,C003,Hasan,Furniture,Chair,8,55.00,440.00,264.00,176.00,Dhaka,Card
+1184,2027-06-19,C004,Nabila,Grocery,Rice,7,36.00,252.00,202.00,50.00,Sylhet,"Mobile Banking"
+1185,2027-06-22,C005,Fahim,Electronics,Keyboard,5,44.00,220.00,121.00,99.00,Rajshahi,Card
+1186,2027-06-25,C006,Sadia,Stationery,Notebook,22,5.00,110.00,61.00,49.00,Dhaka,Cash
+1187,2027-06-28,C007,Tanvir,Clothing,Shirt,4,31.00,124.00,68.00,56.00,Khulna,"Mobile Banking"
+1188,2027-07-01,C008,Ayesha,Grocery,Oil,6,14.00,84.00,59.00,25.00,Chattogram,Card
+1189,2027-07-04,C009,Imran,Electronics,Mouse,12,19.00,228.00,114.00,114.00,Sylhet,Cash
+1190,2027-07-07,C010,Jannat,Furniture,Sofa,1,500.00,500.00,375.00,125.00,Dhaka,Card
+1191,2027-07-10,C011,Rafi,Clothing,T-Shirt,8,20.00,160.00,88.00,72.00,Rajshahi,"Mobile Banking"
+1192,2027-07-13,C012,Mim,Electronics,Laptop,2,800.00,1600.00,1290.00,310.00,Dhaka,Card
+1193,2027-07-16,C013,Sakib,Grocery,Rice,9,35.00,315.00,252.00,63.00,Chattogram,Cash
+1194,2027-07-19,C014,Nusrat,Furniture,Table,2,210.00,420.00,282.00,138.00,Sylhet,"Bank Transfer"
+1195,2027-07-22,C015,Arif,Stationery,Pen,50,2.00,100.00,50.00,50.00,Dhaka,Cash
+1196,2027-07-25,C016,Tania,Clothing,Jeans,5,51.00,255.00,153.00,102.00,Khulna,Card
+1197,2027-07-28,C017,Shuvo,Grocery,Oil,10,15.00,150.00,105.00,45.00,Rajshahi,"Mobile Banking"
+1198,2027-07-31,C018,Sumaiya,Electronics,Monitor,1,250.00,250.00,185.00,65.00,Dhaka,Card
+1199,2027-08-03,C019,Rakib,Furniture,Chair,4,58.00,232.00,139.00,93.00,Chattogram,Cash
+1200,2027-08-06,C020,Puja,Stationery,Backpack,3,41.00,123.00,74.00,49.00,Sylhet,"Mobile Banking"
+1201,2027-08-09,C001,Rahim,Electronics,Laptop,1,810.00,810.00,648.00,162.00,Dhaka,Card
+1202,2027-08-12,C002,Karim,Electronics,Mouse,6,20.00,120.00,60.00,60.00,Chattogram,Cash
+1203,2027-08-15,C003,Hasan,Furniture,Chair,5,60.00,300.00,180.00,120.00,Dhaka,Card
+1204,2027-08-18,C004,Nabila,Clothing,Shirt,7,28.00,196.00,108.00,88.00,Sylhet,"Mobile Banking"
+1205,2027-08-21,C005,Fahim,Electronics,Keyboard,4,45.00,180.00,99.00,81.00,Rajshahi,Card
+1206,2027-08-24,C006,Sadia,Clothing,Jeans,2,50.00,100.00,60.00,40.00,Dhaka,"Mobile Banking"
+1207,2027-08-27,C007,Tanvir,Furniture,Table,1,210.00,210.00,140.00,70.00,Khulna,Cash
+1208,2027-08-30,C008,Ayesha,Grocery,Rice,10,34.00,340.00,272.00,68.00,Chattogram,"Mobile Banking"
+1209,2027-09-02,C009,Imran,Stationery,Notebook,12,6.00,72.00,39.00,33.00,Sylhet,Cash
+1210,2027-09-05,C010,Jannat,Electronics,Monitor,2,235.00,470.00,345.00,125.00,Dhaka,Card
+1211,2027-09-08,C011,Rafi,Clothing,T-Shirt,5,22.00,110.00,61.00,49.00,Rajshahi,Cash
+1212,2027-09-11,C012,Mim,Grocery,Oil,4,15.00,60.00,42.00,18.00,Dhaka,"Mobile Banking"
+1213,2027-09-14,C013,Sakib,Electronics,Laptop,1,850.00,850.00,689.00,161.00,Chattogram,Card
+1214,2027-09-17,C014,Nusrat,Furniture,Sofa,1,490.00,490.00,365.00,125.00,Sylhet,"Bank Transfer"
+1215,2027-09-20,C015,Arif,Stationery,Pen,30,2.00,60.00,30.00,30.00,Dhaka,Cash
+1216,2027-09-23,C016,Tania,Clothing,Shirt,6,30.00,180.00,99.00,81.00,Khulna,Card
+1217,2027-09-26,C017,Shuvo,Grocery,Rice,8,36.00,288.00,230.00,58.00,Rajshahi,"Mobile Banking"
+1218,2027-09-29,C018,Sumaiya,Electronics,Keyboard,3,46.00,138.00,76.00,62.00,Dhaka,Card
+1219,2027-10-02,C019,Rakib,Furniture,Chair,4,57.00,228.00,137.00,91.00,Chattogram,Cash
+1220,2027-10-05,C020,Puja,Stationery,Backpack,2,42.00,84.00,50.00,34.00,Sylhet,"Mobile Banking"
+1221,2027-10-08,C001,Rahim,Electronics,Mouse,9,21.00,189.00,95.00,94.00,Dhaka,Card
+1222,2027-10-11,C002,Karim,Clothing,Jeans,4,50.00,200.00,120.00,80.00,Chattogram,Cash
+1223,2027-10-14,C003,Hasan,Furniture,Table,2,215.00,430.00,280.00,150.00,Dhaka,Card
+1224,2027-10-17,C004,Nabila,Grocery,Oil,9,14.00,126.00,90.00,36.00,Sylhet,"Mobile Banking"
+1225,2027-10-20,C005,Fahim,Electronics,Monitor,1,250.00,250.00,185.00,65.00,Rajshahi,Card
+1226,2027-10-23,C006,Sadia,Stationery,Notebook,18,6.00,108.00,59.00,49.00,Dhaka,Cash
+1227,2027-10-26,C007,Tanvir,Clothing,T-Shirt,8,20.00,160.00,88.00,72.00,Khulna,"Mobile Banking"
+1228,2027-10-29,C008,Ayesha,Grocery,Rice,7,37.00,259.00,207.00,52.00,Chattogram,Card
+1229,2027-11-01,C009,Imran,Electronics,Keyboard,6,44.00,264.00,145.00,119.00,Sylhet,Cash
+1230,2027-11-04,C010,Jannat,Furniture,Chair,3,58.00,174.00,104.00,70.00,Dhaka,Card
+1231,2027-11-07,C011,Rafi,Clothing,Shirt,5,29.00,145.00,80.00,65.00,Rajshahi,"Mobile Banking"
+1232,2027-11-10,C012,Mim,Electronics,Laptop,1,830.00,830.00,672.00,158.00,Dhaka,Card
+1233,2027-11-13,C013,Sakib,Grocery,Oil,7,15.00,105.00,74.00,31.00,Chattogram,Cash
+1234,2027-11-16,C014,Nusrat,Furniture,Sofa,2,480.00,960.00,710.00,250.00,Sylhet,"Bank Transfer"
+1235,2027-11-19,C015,Arif,Stationery,Pen,40,2.00,80.00,40.00,40.00,Dhaka,Cash
+1236,2027-11-22,C016,Tania,Clothing,Jeans,3,52.00,156.00,94.00,62.00,Khulna,Card
+1237,2027-11-25,C017,Shuvo,Grocery,Rice,11,35.00,385.00,308.00,77.00,Rajshahi,"Mobile Banking"
+1238,2027-11-28,C018,Sumaiya,Electronics,Mouse,8,22.00,176.00,88.00,88.00,Dhaka,Card
+1239,2027-12-01,C019,Rakib,Furniture,Table,1,225.00,225.00,152.00,73.00,Chattogram,Cash
+1240,2027-12-04,C020,Puja,Stationery,Backpack,4,39.00,156.00,94.00,62.00,Sylhet,"Mobile Banking"
+1241,2027-12-07,C001,Rahim,Electronics,Laptop,2,795.00,1590.00,1272.00,318.00,Dhaka,Card
+1242,2027-12-10,C002,Karim,Clothing,Shirt,5,31.00,155.00,85.00,70.00,Chattogram,Cash
+1243,2027-12-13,C003,Hasan,Furniture,Chair,6,59.00,354.00,212.00,142.00,Dhaka,Card
+1244,2027-12-16,C004,Nabila,Grocery,Rice,9,36.00,324.00,259.00,65.00,Sylhet,"Mobile Banking"
+1245,2027-12-19,C005,Fahim,Electronics,Monitor,2,240.00,480.00,355.00,125.00,Rajshahi,Card
+1246,2027-12-22,C006,Sadia,Stationery,Notebook,15,6.00,90.00,50.00,40.00,Dhaka,Cash
+1247,2027-12-25,C007,Tanvir,Clothing,T-Shirt,6,21.00,126.00,69.00,57.00,Khulna,"Mobile Banking"
+1248,2027-12-28,C008,Ayesha,Grocery,Oil,8,14.00,112.00,78.00,34.00,Chattogram,Card
+1249,2027-12-31,C009,Imran,Electronics,Keyboard,5,43.00,215.00,118.00,97.00,Sylhet,Cash
+1250,2028-01-03,C010,Jannat,Furniture,Sofa,1,505.00,505.00,378.00,127.00,Dhaka,Card
+1251,2028-01-06,C011,Rafi,Clothing,Jeans,4,49.00,196.00,118.00,78.00,Rajshahi,"Mobile Banking"
+1252,2028-01-09,C012,Mim,Electronics,Mouse,10,20.00,200.00,100.00,100.00,Dhaka,Card
+1253,2028-01-12,C013,Sakib,Grocery,Rice,6,38.00,228.00,182.00,46.00,Chattogram,Cash
+1254,2028-01-15,C014,Nusrat,Furniture,Table,2,220.00,440.00,295.00,145.00,Sylhet,"Bank Transfer"
+1255,2028-01-18,C015,Arif,Stationery,Pen,45,2.00,90.00,45.00,45.00,Dhaka,Cash
+1256,2028-01-21,C016,Tania,Clothing,Shirt,7,28.00,196.00,108.00,88.00,Khulna,Card
+1257,2028-01-24,C017,Shuvo,Grocery,Oil,12,14.00,168.00,118.00,50.00,Rajshahi,"Mobile Banking"
+1258,2028-01-27,C018,Sumaiya,Electronics,Laptop,1,845.00,845.00,684.00,161.00,Dhaka,Card
+1259,2028-01-30,C019,Rakib,Furniture,Chair,5,56.00,280.00,168.00,112.00,Chattogram,Cash
+1260,2028-02-02,C020,Puja,Stationery,Backpack,3,40.00,120.00,72.00,48.00,Sylhet,"Mobile Banking"
+1261,2028-02-05,C001,Rahim,Electronics,Monitor,2,245.00,490.00,360.00,130.00,Dhaka,Card
+1262,2028-02-08,C002,Karim,Clothing,T-Shirt,9,20.00,180.00,99.00,81.00,Chattogram,Cash
+1263,2028-02-11,C003,Hasan,Furniture,Table,2,205.00,410.00,275.00,135.00,Dhaka,Card
+1264,2028-02-14,C004,Nabila,Grocery,Rice,10,35.00,350.00,280.00,70.00,Sylhet,"Mobile Banking"
+1265,2028-02-17,C005,Fahim,Electronics,Keyboard,7,41.00,287.00,158.00,129.00,Rajshahi,Card
+1266,2028-02-20,C006,Sadia,Stationery,Notebook,20,5.00,100.00,55.00,45.00,Dhaka,Cash
+1267,2028-02-23,C007,Tanvir,Clothing,Jeans,5,51.00,255.00,153.00,102.00,Khulna,"Mobile Banking"
+1268,2028-02-26,C008,Ayesha,Grocery,Oil,7,15.00,105.00,74.00,31.00,Chattogram,Card
+1269,2028-02-29,C009,Imran,Electronics,Mouse,11,21.00,231.00,116.00,115.00,Sylhet,Cash
+1270,2028-03-03,C010,Jannat,Furniture,Sofa,1,510.00,510.00,382.00,128.00,Dhaka,Card
+1271,2028-03-06,C011,Rafi,Clothing,Shirt,6,30.00,180.00,99.00,81.00,Rajshahi,"Mobile Banking"
+1272,2028-03-09,C012,Mim,Electronics,Laptop,1,825.00,825.00,668.00,157.00,Dhaka,Card
+1273,2028-03-12,C013,Sakib,Grocery,Rice,8,34.00,272.00,218.00,54.00,Chattogram,Cash
+1274,2028-03-15,C014,Nusrat,Furniture,Chair,4,60.00,240.00,144.00,96.00,Sylhet,"Bank Transfer"
+1275,2028-03-18,C015,Arif,Stationery,Pen,50,2.00,100.00,50.00,50.00,Dhaka,Cash
+1276,2028-03-21,C016,Tania,Clothing,T-Shirt,5,22.00,110.00,61.00,49.00,Khulna,Card
+1277,2028-03-24,C017,Shuvo,Grocery,Oil,9,14.00,126.00,88.00,38.00,Rajshahi,"Mobile Banking"
+1278,2028-03-27,C018,Sumaiya,Electronics,Monitor,1,255.00,255.00,188.00,67.00,Dhaka,Card
+1279,2028-03-30,C019,Rakib,Furniture,Table,2,215.00,430.00,288.00,142.00,Chattogram,Cash
+1280,2028-04-02,C020,Puja,Stationery,Backpack,4,41.00,164.00,98.00,66.00,Sylhet,"Mobile Banking"
+1281,2028-04-05,C001,Rahim,Electronics,Laptop,1,835.00,835.00,676.00,159.00,Dhaka,Card
+1282,2028-04-08,C002,Karim,Clothing,Jeans,4,50.00,200.00,120.00,80.00,Chattogram,Cash
+1283,2028-04-11,C003,Hasan,Furniture,Chair,7,58.00,406.00,244.00,162.00,Dhaka,Card
+1284,2028-04-14,C004,Nabila,Grocery,Rice,8,37.00,296.00,237.00,59.00,Sylhet,"Mobile Banking"
+1285,2028-04-17,C005,Fahim,Electronics,Keyboard,6,45.00,270.00,149.00,121.00,Rajshahi,Card
+1286,2028-04-20,C006,Sadia,Stationery,Notebook,17,6.00,102.00,56.00,46.00,Dhaka,Cash
+1287,2028-04-23,C007,Tanvir,Clothing,Shirt,5,32.00,160.00,88.00,72.00,Khulna,"Mobile Banking"
+1288,2028-04-26,C008,Ayesha,Grocery,Oil,10,14.00,140.00,98.00,42.00,Chattogram,Card
+1289,2028-04-29,C009,Imran,Electronics,Mouse,9,22.00,198.00,99.00,99.00,Sylhet,Cash
+1290,2028-05-02,C010,Jannat,Furniture,Sofa,1,495.00,495.00,371.00,124.00,Dhaka,Card
+1291,2028-05-05,C011,Rafi,Clothing,T-Shirt,7,21.00,147.00,81.00,66.00,Rajshahi,"Mobile Banking"
+1292,2028-05-08,C012,Mim,Electronics,Laptop,2,815.00,1630.00,1310.00,320.00,Dhaka,Card
+1293,2028-05-11,C013,Sakib,Grocery,Rice,11,36.00,396.00,317.00,79.00,Chattogram,Cash
+1294,2028-05-14,C014,Nusrat,Furniture,Table,1,225.00,225.00,151.00,74.00,Sylhet,"Bank Transfer"
+1295,2028-05-17,C015,Arif,Stationery,Pen,35,2.00,70.00,35.00,35.00,Dhaka,Cash
+1296,2028-05-20,C016,Tania,Clothing,Jeans,6,52.00,312.00,187.00,125.00,Khulna,Card
+1297,2028-05-23,C017,Shuvo,Grocery,Oil,8,15.00,120.00,84.00,36.00,Rajshahi,"Mobile Banking"
+1298,2028-05-26,C018,Sumaiya,Electronics,Monitor,2,245.00,490.00,360.00,130.00,Dhaka,Card
+1299,2028-05-29,C019,Rakib,Furniture,Chair,5,59.00,295.00,177.00,118.00,Chattogram,Cash
+1300,2028-06-01,C020,Puja,Stationery,Backpack,3,42.00,126.00,76.00,50.00,Sylhet,"Mobile Banking"
+1301,2028-06-04,C001,Rahim,Electronics,Laptop,1,825.00,825.00,660.00,165.00,Dhaka,Card
+1302,2028-06-07,C002,Karim,Electronics,Mouse,7,21.00,147.00,74.00,73.00,Chattogram,Cash
+1303,2028-06-10,C003,Hasan,Furniture,Chair,4,61.00,244.00,146.00,98.00,Dhaka,Card
+1304,2028-06-13,C004,Nabila,Clothing,Shirt,6,30.00,180.00,99.00,81.00,Sylhet,"Mobile Banking"
+1305,2028-06-16,C005,Fahim,Electronics,Keyboard,5,46.00,230.00,127.00,103.00,Rajshahi,Card
+1306,2028-06-19,C006,Sadia,Clothing,Jeans,3,51.00,153.00,92.00,61.00,Dhaka,"Mobile Banking"
+1307,2028-06-22,C007,Tanvir,Furniture,Table,2,220.00,440.00,295.00,145.00,Khulna,Cash
+1308,2028-06-25,C008,Ayesha,Grocery,Rice,9,35.00,315.00,252.00,63.00,Chattogram,"Mobile Banking"
+1309,2028-06-28,C009,Imran,Stationery,Notebook,14,6.00,84.00,46.00,38.00,Sylhet,Cash
+1310,2028-07-01,C010,Jannat,Electronics,Monitor,2,250.00,500.00,365.00,135.00,Dhaka,Card
+1311,2028-07-04,C011,Rafi,Clothing,T-Shirt,8,22.00,176.00,97.00,79.00,Rajshahi,Cash
+1312,2028-07-07,C012,Mim,Grocery,Oil,5,15.00,75.00,53.00,22.00,Dhaka,"Mobile Banking"
+1313,2028-07-10,C013,Sakib,Electronics,Laptop,1,860.00,860.00,697.00,163.00,Chattogram,Card
+1314,2028-07-13,C014,Nusrat,Furniture,Sofa,1,515.00,515.00,386.00,129.00,Sylhet,"Bank Transfer"
+1315,2028-07-16,C015,Arif,Stationery,Pen,40,2.00,80.00,40.00,40.00,Dhaka,Cash
+1316,2028-07-19,C016,Tania,Clothing,Shirt,5,31.00,155.00,85.00,70.00,Khulna,Card
+1317,2028-07-22,C017,Shuvo,Grocery,Rice,7,37.00,259.00,207.00,52.00,Rajshahi,"Mobile Banking"
+1318,2028-07-25,C018,Sumaiya,Electronics,Keyboard,4,47.00,188.00,103.00,85.00,Dhaka,Card
+1319,2028-07-28,C019,Rakib,Furniture,Chair,6,58.00,348.00,209.00,139.00,Chattogram,Cash
+1320,2028-07-31,C020,Puja,Stationery,Backpack,3,43.00,129.00,77.00,52.00,Sylhet,"Mobile Banking"
+1321,2028-08-03,C001,Rahim,Electronics,Mouse,8,22.00,176.00,88.00,88.00,Dhaka,Card
+1322,2028-08-06,C002,Karim,Clothing,Jeans,5,51.00,255.00,153.00,102.00,Chattogram,Cash
+1323,2028-08-09,C003,Hasan,Furniture,Table,1,230.00,230.00,154.00,76.00,Dhaka,Card
+1324,2028-08-12,C004,Nabila,Grocery,Oil,10,15.00,150.00,105.00,45.00,Sylhet,"Mobile Banking"
+1325,2028-08-15,C005,Fahim,Electronics,Monitor,1,260.00,260.00,191.00,69.00,Rajshahi,Card
+1326,2028-08-18,C006,Sadia,Stationery,Notebook,21,6.00,126.00,69.00,57.00,Dhaka,Cash
+1327,2028-08-21,C007,Tanvir,Clothing,T-Shirt,7,22.00,154.00,85.00,69.00,Khulna,"Mobile Banking"
+1328,2028-08-24,C008,Ayesha,Grocery,Rice,8,36.00,288.00,230.00,58.00,Chattogram,Card
+1329,2028-08-27,C009,Imran,Electronics,Keyboard,6,45.00,270.00,149.00,121.00,Sylhet,Cash
+1330,2028-08-30,C010,Jannat,Furniture,Chair,3,60.00,180.00,108.00,72.00,Dhaka,Card
+1331,2028-09-02,C011,Rafi,Clothing,Shirt,6,30.00,180.00,99.00,81.00,Rajshahi,"Mobile Banking"
+1332,2028-09-05,C012,Mim,Electronics,Laptop,1,840.00,840.00,680.00,160.00,Dhaka,Card
+1333,2028-09-08,C013,Sakib,Grocery,Oil,8,15.00,120.00,84.00,36.00,Chattogram,Cash
+1334,2028-09-11,C014,Nusrat,Furniture,Sofa,2,500.00,1000.00,740.00,260.00,Sylhet,"Bank Transfer"
+1335,2028-09-14,C015,Arif,Stationery,Pen,45,2.00,90.00,45.00,45.00,Dhaka,Cash
+1336,2028-09-17,C016,Tania,Clothing,Jeans,4,53.00,212.00,127.00,85.00,Khulna,Card
+1337,2028-09-20,C017,Shuvo,Grocery,Rice,10,37.00,370.00,296.00,74.00,Rajshahi,"Mobile Banking"
+1338,2028-09-23,C018,Sumaiya,Electronics,Mouse,9,21.00,189.00,95.00,94.00,Dhaka,Card
+1339,2028-09-26,C019,Rakib,Furniture,Table,2,225.00,450.00,302.00,148.00,Chattogram,Cash
+1340,2028-09-29,C020,Puja,Stationery,Backpack,4,42.00,168.00,101.00,67.00,Sylhet,"Mobile Banking"
+1341,2028-10-02,C001,Rahim,Electronics,Laptop,2,830.00,1660.00,1328.00,332.00,Dhaka,Card
+1342,2028-10-05,C002,Karim,Clothing,Shirt,5,32.00,160.00,88.00,72.00,Chattogram,Cash
+1343,2028-10-08,C003,Hasan,Furniture,Chair,7,62.00,434.00,260.00,174.00,Dhaka,Card
+1344,2028-10-11,C004,Nabila,Grocery,Rice,11,36.00,396.00,317.00,79.00,Sylhet,"Mobile Banking"
+1345,2028-10-14,C005,Fahim,Electronics,Keyboard,4,47.00,188.00,103.00,85.00,Rajshahi,Card
+1346,2028-10-17,C006,Sadia,Stationery,Notebook,19,6.00,114.00,63.00,51.00,Dhaka,Cash
+1347,2028-10-20,C007,Tanvir,Clothing,T-Shirt,8,23.00,184.00,101.00,83.00,Khulna,"Mobile Banking"
+1348,2028-10-23,C008,Ayesha,Grocery,Oil,6,15.00,90.00,63.00,27.00,Chattogram,Card
+1349,2028-10-26,C009,Imran,Electronics,Mouse,10,22.00,220.00,110.00,110.00,Sylhet,Cash
+1350,2028-10-29,C010,Jannat,Furniture,Sofa,1,520.00,520.00,390.00,130.00,Dhaka,Card
+1351,2028-11-01,C011,Rafi,Clothing,Jeans,6,50.00,300.00,180.00,120.00,Rajshahi,"Mobile Banking"
+1352,2028-11-04,C012,Mim,Electronics,Laptop,1,850.00,850.00,689.00,161.00,Dhaka,Card
+1353,2028-11-07,C013,Sakib,Grocery,Rice,9,38.00,342.00,274.00,68.00,Chattogram,Cash
+1354,2028-11-10,C014,Nusrat,Furniture,Table,2,230.00,460.00,308.00,152.00,Sylhet,"Bank Transfer"
+1355,2028-11-13,C015,Arif,Stationery,Pen,50,2.00,100.00,50.00,50.00,Dhaka,Cash
+1356,2028-11-16,C016,Tania,Clothing,Shirt,7,31.00,217.00,119.00,98.00,Khulna,Card
+1357,2028-11-19,C017,Shuvo,Grocery,Oil,12,15.00,180.00,126.00,54.00,Rajshahi,"Mobile Banking"
+1358,2028-11-22,C018,Sumaiya,Electronics,Monitor,2,255.00,510.00,375.00,135.00,Dhaka,Card
+1359,2028-11-25,C019,Rakib,Furniture,Chair,5,61.00,305.00,183.00,122.00,Chattogram,Cash
+1360,2028-11-28,C020,Puja,Stationery,Backpack,3,44.00,132.00,79.00,53.00,Sylhet,"Mobile Banking"
+1361,2028-12-01,C001,Rahim,Electronics,Mouse,7,23.00,161.00,81.00,80.00,Dhaka,Card
+1362,2028-12-04,C002,Karim,Clothing,T-Shirt,9,22.00,198.00,109.00,89.00,Chattogram,Cash
+1363,2028-12-07,C003,Hasan,Furniture,Table,1,235.00,235.00,158.00,77.00,Dhaka,Card
+1364,2028-12-10,C004,Nabila,Grocery,Rice,10,37.00,370.00,296.00,74.00,Sylhet,"Mobile Banking"
+1365,2028-12-13,C005,Fahim,Electronics,Keyboard,8,46.00,368.00,202.00,166.00,Rajshahi,Card
+1366,2028-12-16,C006,Sadia,Stationery,Notebook,16,6.00,96.00,53.00,43.00,Dhaka,Cash
+1367,2028-12-19,C007,Tanvir,Clothing,Jeans,5,54.00,270.00,162.00,108.00,Khulna,"Mobile Banking"
+1368,2028-12-22,C008,Ayesha,Grocery,Oil,9,15.00,135.00,95.00,40.00,Chattogram,Card
+1369,2028-12-25,C009,Imran,Electronics,Monitor,1,265.00,265.00,196.00,69.00,Sylhet,Cash
+1370,2028-12-28,C010,Jannat,Furniture,Sofa,1,525.00,525.00,394.00,131.00,Dhaka,Card
+1371,2028-12-31,C011,Rafi,Clothing,Shirt,6,32.00,192.00,106.00,86.00,Rajshahi,"Mobile Banking"
+1372,2029-01-03,C012,Mim,Electronics,Laptop,2,845.00,1690.00,1352.00,338.00,Dhaka,Card
+1373,2029-01-06,C013,Sakib,Grocery,Rice,8,39.00,312.00,250.00,62.00,Chattogram,Cash
+1374,2029-01-09,C014,Nusrat,Furniture,Chair,4,63.00,252.00,151.00,101.00,Sylhet,"Bank Transfer"
+1375,2029-01-12,C015,Arif,Stationery,Pen,40,2.00,80.00,40.00,40.00,Dhaka,Cash
+1376,2029-01-15,C016,Tania,Clothing,T-Shirt,7,23.00,161.00,89.00,72.00,Khulna,Card
+1377,2029-01-18,C017,Shuvo,Grocery,Oil,11,16.00,176.00,123.00,53.00,Rajshahi,"Mobile Banking"
+1378,2029-01-21,C018,Sumaiya,Electronics,Monitor,2,260.00,520.00,382.00,138.00,Dhaka,Card
+1379,2029-01-24,C019,Rakib,Furniture,Table,2,240.00,480.00,322.00,158.00,Chattogram,Cash
+1380,2029-01-27,C020,Puja,Stationery,Backpack,5,43.00,215.00,129.00,86.00,Sylhet,"Mobile Banking"
+1381,2029-01-30,C001,Rahim,Electronics,Laptop,1,855.00,855.00,692.00,163.00,Dhaka,Card
+1382,2029-02-02,C002,Karim,Clothing,Jeans,4,52.00,208.00,125.00,83.00,Chattogram,Cash
+1383,2029-02-05,C003,Hasan,Furniture,Chair,6,60.00,360.00,216.00,144.00,Dhaka,Card
+1384,2029-02-08,C004,Nabila,Grocery,Rice,9,38.00,342.00,274.00,68.00,Sylhet,"Mobile Banking"
+1385,2029-02-11,C005,Fahim,Electronics,Keyboard,5,48.00,240.00,132.00,108.00,Rajshahi,Card
+1386,2029-02-14,C006,Sadia,Stationery,Notebook,20,6.00,120.00,66.00,54.00,Dhaka,Cash
+1387,2029-02-17,C007,Tanvir,Clothing,Shirt,8,33.00,264.00,145.00,119.00,Khulna,"Mobile Banking"
+1388,2029-02-20,C008,Ayesha,Grocery,Oil,7,16.00,112.00,78.00,34.00,Chattogram,Card
+1389,2029-02-23,C009,Imran,Electronics,Mouse,12,22.00,264.00,132.00,132.00,Sylhet,Cash
+1390,2029-02-26,C010,Jannat,Furniture,Sofa,1,530.00,530.00,398.00,132.00,Dhaka,Card
+1391,2029-03-01,C011,Rafi,Clothing,T-Shirt,9,23.00,207.00,114.00,93.00,Rajshahi,"Mobile Banking"
+1392,2029-03-04,C012,Mim,Electronics,Laptop,1,860.00,860.00,697.00,163.00,Dhaka,Card
+1393,2029-03-07,C013,Sakib,Grocery,Rice,10,37.00,370.00,296.00,74.00,Chattogram,Cash
+1394,2029-03-10,C014,Nusrat,Furniture,Table,1,245.00,245.00,164.00,81.00,Sylhet,"Bank Transfer"
+1395,2029-03-13,C015,Arif,Stationery,Pen,55,2.00,110.00,55.00,55.00,Dhaka,Cash
+1396,2029-03-16,C016,Tania,Clothing,Jeans,6,55.00,330.00,198.00,132.00,Khulna,Card
+1397,2029-03-19,C017,Shuvo,Grocery,Oil,10,16.00,160.00,112.00,48.00,Rajshahi,"Mobile Banking"
+1398,2029-03-22,C018,Sumaiya,Electronics,Monitor,2,270.00,540.00,397.00,143.00,Dhaka,Card
+1399,2029-03-25,C019,Rakib,Furniture,Chair,5,64.00,320.00,192.00,128.00,Chattogram,Cash
+1400,2029-03-28,C020,Puja,Stationery,Backpack,4,45.00,180.00,108.00,72.00,Sylhet,"Mobile Banking"
+1401,2029-03-31,C001,Rahim,Electronics,Laptop,2,840.00,1680.00,1344.00,336.00,Dhaka,Card
+1402,2029-04-03,C002,Karim,Electronics,Mouse,8,23.00,184.00,92.00,92.00,Chattogram,Cash
+1403,2029-04-06,C003,Hasan,Furniture,Chair,7,62.00,434.00,260.00,174.00,Dhaka,Card
+1404,2029-04-09,C004,Nabila,Clothing,Shirt,5,34.00,170.00,94.00,76.00,Sylhet,"Mobile Banking"
+1405,2029-04-12,C005,Fahim,Electronics,Keyboard,6,49.00,294.00,162.00,132.00,Rajshahi,Card
+1406,2029-04-15,C006,Sadia,Clothing,Jeans,4,56.00,224.00,134.00,90.00,Dhaka,"Mobile Banking"
+1407,2029-04-18,C007,Tanvir,Furniture,Table,2,250.00,500.00,335.00,165.00,Khulna,Cash
+1408,2029-04-21,C008,Ayesha,Grocery,Rice,11,38.00,418.00,334.00,84.00,Chattogram,"Mobile Banking"
+1409,2029-04-24,C009,Imran,Stationery,Notebook,18,6.00,108.00,59.00,49.00,Sylhet,Cash
+1410,2029-04-27,C010,Jannat,Electronics,Monitor,2,275.00,550.00,405.00,145.00,Dhaka,Card
+1411,2029-04-30,C011,Rafi,Clothing,T-Shirt,7,24.00,168.00,92.00,76.00,Rajshahi,Cash
+1412,2029-05-03,C012,Mim,Grocery,Oil,6,16.00,96.00,67.00,29.00,Dhaka,"Mobile Banking"
+1413,2029-05-06,C013,Sakib,Electronics,Laptop,1,875.00,875.00,709.00,166.00,Chattogram,Card
+1414,2029-05-09,C014,Nusrat,Furniture,Sofa,1,540.00,540.00,405.00,135.00,Sylhet,"Bank Transfer"
+1415,2029-05-12,C015,Arif,Stationery,Pen,50,2.00,100.00,50.00,50.00,Dhaka,Cash
+1416,2029-05-15,C016,Tania,Clothing,Shirt,6,34.00,204.00,112.00,92.00,Khulna,Card
+1417,2029-05-18,C017,Shuvo,Grocery,Rice,9,39.00,351.00,281.00,70.00,Rajshahi,"Mobile Banking"
+1418,2029-05-21,C018,Sumaiya,Electronics,Keyboard,5,50.00,250.00,138.00,112.00,Dhaka,Card
+1419,2029-05-24,C019,Rakib,Furniture,Chair,4,65.00,260.00,156.00,104.00,Chattogram,Cash
+1420,2029-05-27,C020,Puja,Stationery,Backpack,3,46.00,138.00,83.00,55.00,Sylhet,"Mobile Banking"
+1421,2029-05-30,C001,Rahim,Electronics,Mouse,10,23.00,230.00,115.00,115.00,Dhaka,Card
+1422,2029-06-02,C002,Karim,Clothing,Jeans,5,56.00,280.00,168.00,112.00,Chattogram,Cash
+1423,2029-06-05,C003,Hasan,Furniture,Table,1,255.00,255.00,171.00,84.00,Dhaka,Card
+1424,2029-06-08,C004,Nabila,Grocery,Oil,12,16.00,192.00,134.00,58.00,Sylhet,"Mobile Banking"
+1425,2029-06-11,C005,Fahim,Electronics,Monitor,1,280.00,280.00,207.00,73.00,Rajshahi,Card
+1426,2029-06-14,C006,Sadia,Stationery,Notebook,22,6.00,132.00,73.00,59.00,Dhaka,Cash
+1427,2029-06-17,C007,Tanvir,Clothing,T-Shirt,8,24.00,192.00,106.00,86.00,Khulna,"Mobile Banking"
+1428,2029-06-20,C008,Ayesha,Grocery,Rice,10,39.00,390.00,312.00,78.00,Chattogram,Card
+1429,2029-06-23,C009,Imran,Electronics,Keyboard,7,50.00,350.00,193.00,157.00,Sylhet,Cash
+1430,2029-06-26,C010,Jannat,Furniture,Sofa,1,550.00,550.00,413.00,137.00,Dhaka,Card
+1431,2029-06-29,C011,Rafi,Clothing,Shirt,5,35.00,175.00,96.00,79.00,Rajshahi,"Mobile Banking"
+1432,2029-07-02,C012,Mim,Electronics,Laptop,2,875.00,1750.00,1400.00,350.00,Dhaka,Card
+1433,2029-07-05,C013,Sakib,Grocery,Rice,8,40.00,320.00,256.00,64.00,Chattogram,Cash
+1434,2029-07-08,C014,Nusrat,Furniture,Table,2,250.00,500.00,335.00,165.00,Sylhet,"Bank Transfer"
+1435,2029-07-11,C015,Arif,Stationery,Pen,60,2.00,120.00,60.00,60.00,Dhaka,Cash
+1436,2029-07-14,C016,Tania,Clothing,Jeans,7,57.00,399.00,239.00,160.00,Khulna,Card
+1437,2029-07-17,C017,Shuvo,Grocery,Oil,11,17.00,187.00,131.00,56.00,Rajshahi,"Mobile Banking"
+1438,2029-07-20,C018,Sumaiya,Electronics,Monitor,2,285.00,570.00,419.00,151.00,Dhaka,Card
+1439,2029-07-23,C019,Rakib,Furniture,Chair,6,66.00,396.00,238.00,158.00,Chattogram,Cash
+1440,2029-07-26,C020,Puja,Stationery,Backpack,5,47.00,235.00,141.00,94.00,Sylhet,"Mobile Banking"
+1441,2029-07-29,C001,Rahim,Electronics,Laptop,1,890.00,890.00,721.00,169.00,Dhaka,Card
+1442,2029-08-01,C002,Karim,Clothing,T-Shirt,10,24.00,240.00,132.00,108.00,Chattogram,Cash
+1443,2029-08-04,C003,Hasan,Furniture,Chair,5,67.00,335.00,201.00,134.00,Dhaka,Card
+1444,2029-08-07,C004,Nabila,Grocery,Rice,9,40.00,360.00,288.00,72.00,Sylhet,"Mobile Banking"
+1445,2029-08-10,C005,Fahim,Electronics,Keyboard,8,51.00,408.00,224.00,184.00,Rajshahi,Card
+1446,2029-08-13,C006,Sadia,Stationery,Notebook,20,7.00,140.00,77.00,63.00,Dhaka,Cash
+1447,2029-08-16,C007,Tanvir,Clothing,Shirt,6,36.00,216.00,119.00,97.00,Khulna,"Mobile Banking"
+1448,2029-08-19,C008,Ayesha,Grocery,Oil,8,17.00,136.00,95.00,41.00,Chattogram,Card
+1449,2029-08-22,C009,Imran,Electronics,Mouse,12,24.00,288.00,144.00,144.00,Sylhet,Cash
+1450,2029-08-25,C010,Jannat,Furniture,Sofa,1,560.00,560.00,420.00,140.00,Dhaka,Card
+1451,2029-08-28,C011,Rafi,Clothing,Jeans,5,58.00,290.00,174.00,116.00,Rajshahi,"Mobile Banking"
+1452,2029-08-31,C012,Mim,Electronics,Laptop,1,885.00,885.00,716.00,169.00,Dhaka,Card
+1453,2029-09-03,C013,Sakib,Grocery,Rice,10,39.00,390.00,312.00,78.00,Chattogram,Cash
+1454,2029-09-06,C014,Nusrat,Furniture,Table,2,260.00,520.00,348.00,172.00,Sylhet,"Bank Transfer"
+1455,2029-09-09,C015,Arif,Stationery,Pen,45,2.00,90.00,45.00,45.00,Dhaka,Cash
+1456,2029-09-12,C016,Tania,Clothing,T-Shirt,8,25.00,200.00,110.00,90.00,Khulna,Card
+1457,2029-09-15,C017,Shuvo,Grocery,Oil,10,17.00,170.00,119.00,51.00,Rajshahi,"Mobile Banking"
+1458,2029-09-18,C018,Sumaiya,Electronics,Monitor,1,290.00,290.00,214.00,76.00,Dhaka,Card
+1459,2029-09-21,C019,Rakib,Furniture,Chair,7,68.00,476.00,286.00,190.00,Chattogram,Cash
+1460,2029-09-24,C020,Puja,Stationery,Backpack,4,48.00,192.00,115.00,77.00,Sylhet,"Mobile Banking"
+1461,2029-09-27,C001,Rahim,Electronics,Laptop,2,880.00,1760.00,1408.00,352.00,Dhaka,Card
+1462,2029-09-30,C002,Karim,Clothing,Shirt,7,36.00,252.00,139.00,113.00,Chattogram,Cash
+1463,2029-10-03,C003,Hasan,Furniture,Table,2,265.00,530.00,355.00,175.00,Dhaka,Card
+1464,2029-10-06,C004,Nabila,Grocery,Rice,12,40.00,480.00,384.00,96.00,Sylhet,"Mobile Banking"
+1465,2029-10-09,C005,Fahim,Electronics,Keyboard,6,52.00,312.00,172.00,140.00,Rajshahi,Card
+1466,2029-10-12,C006,Sadia,Stationery,Notebook,24,7.00,168.00,92.00,76.00,Dhaka,Cash
+1467,2029-10-15,C007,Tanvir,Clothing,Jeans,5,60.00,300.00,180.00,120.00,Khulna,"Mobile Banking"
+1468,2029-10-18,C008,Ayesha,Grocery,Oil,9,17.00,153.00,107.00,46.00,Chattogram,Card
+1469,2029-10-21,C009,Imran,Electronics,Mouse,11,25.00,275.00,138.00,137.00,Sylhet,Cash
+1470,2029-10-24,C010,Jannat,Furniture,Sofa,1,570.00,570.00,428.00,142.00,Dhaka,Card
+1471,2029-10-27,C011,Rafi,Clothing,T-Shirt,9,25.00,225.00,124.00,101.00,Rajshahi,"Mobile Banking"
+1472,2029-10-30,C012,Mim,Electronics,Laptop,2,895.00,1790.00,1432.00,358.00,Dhaka,Card
+1473,2029-11-02,C013,Sakib,Grocery,Rice,11,41.00,451.00,361.00,90.00,Chattogram,Cash
+1474,2029-11-05,C014,Nusrat,Furniture,Chair,5,69.00,345.00,207.00,138.00,Sylhet,"Bank Transfer"
+1475,2029-11-08,C015,Arif,Stationery,Pen,55,2.00,110.00,55.00,55.00,Dhaka,Cash
+1476,2029-11-11,C016,Tania,Clothing,Shirt,6,37.00,222.00,122.00,100.00,Khulna,Card
+1477,2029-11-14,C017,Shuvo,Grocery,Oil,12,17.00,204.00,143.00,61.00,Rajshahi,"Mobile Banking"
+1478,2029-11-17,C018,Sumaiya,Electronics,Monitor,2,295.00,590.00,434.00,156.00,Dhaka,Card
+1479,2029-11-20,C019,Rakib,Furniture,Table,1,275.00,275.00,184.00,91.00,Chattogram,Cash
+1480,2029-11-23,C020,Puja,Stationery,Backpack,5,49.00,245.00,147.00,98.00,Sylhet,"Mobile Banking"
+1481,2029-11-26,C001,Rahim,Electronics,Mouse,10,25.00,250.00,125.00,125.00,Dhaka,Card
+1482,2029-11-29,C002,Karim,Clothing,Jeans,4,61.00,244.00,146.00,98.00,Chattogram,Cash
+1483,2029-12-02,C003,Hasan,Furniture,Chair,8,70.00,560.00,336.00,224.00,Dhaka,Card
+1484,2029-12-05,C004,Nabila,Grocery,Rice,10,41.00,410.00,328.00,82.00,Sylhet,"Mobile Banking"
+1485,2029-12-08,C005,Fahim,Electronics,Keyboard,7,53.00,371.00,204.00,167.00,Rajshahi,Card
+1486,2029-12-11,C006,Sadia,Stationery,Notebook,18,7.00,126.00,69.00,57.00,Dhaka,Cash
+1487,2029-12-14,C007,Tanvir,Clothing,T-Shirt,8,26.00,208.00,114.00,94.00,Khulna,"Mobile Banking"
+1488,2029-12-17,C008,Ayesha,Grocery,Oil,7,18.00,126.00,88.00,38.00,Chattogram,Card
+1489,2029-12-20,C009,Imran,Electronics,Monitor,1,300.00,300.00,222.00,78.00,Sylhet,Cash
+1490,2029-12-23,C010,Jannat,Furniture,Sofa,1,580.00,580.00,435.00,145.00,Dhaka,Card
+1491,2029-12-26,C011,Rafi,Clothing,Shirt,7,38.00,266.00,146.00,120.00,Rajshahi,"Mobile Banking"
+1492,2029-12-29,C012,Mim,Electronics,Laptop,1,900.00,900.00,729.00,171.00,Dhaka,Card
+1493,2030-01-01,C013,Sakib,Grocery,Rice,9,42.00,378.00,302.00,76.00,Chattogram,Cash
+1494,2030-01-04,C014,Nusrat,Furniture,Table,2,280.00,560.00,375.00,185.00,Sylhet,"Bank Transfer"
+1495,2030-01-07,C015,Arif,Stationery,Pen,60,2.00,120.00,60.00,60.00,Dhaka,Cash
+1496,2030-01-10,C016,Tania,Clothing,Jeans,6,62.00,372.00,223.00,149.00,Khulna,Card
+1497,2030-01-13,C017,Shuvo,Grocery,Oil,11,18.00,198.00,139.00,59.00,Rajshahi,"Mobile Banking"
+1498,2030-01-16,C018,Sumaiya,Electronics,Monitor,2,310.00,620.00,456.00,164.00,Dhaka,Card
+1499,2030-01-19,C019,Rakib,Furniture,Chair,6,72.00,432.00,259.00,173.00,Chattogram,Cash
+1500,2030-01-22,C020,Puja,Stationery,Backpack,4,50.00,200.00,120.00,80.00,Sylhet,"Mobile Banking"
